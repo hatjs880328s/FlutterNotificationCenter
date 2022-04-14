@@ -1,6 +1,6 @@
 
 # FlutterNotificationCenter
-## 仿IOS通知中心 Flutter版本
+## 参照IOS通知中心 Flutter版本
 ## 
 ## 如何使用？
 1. 发送消息、通知
